@@ -1,0 +1,23 @@
+commit f78576b5fb48f772c2bbbceb447548734b124992
+Author: eduardo14 <eduardo0091400914@gmail.com>
+Date:   Tue Jul 4 09:52:02 2017 -0600
+
+    se agrego bootstrap
+
+commit 60ba28d86666f3aa92d9f529e08aca5119e96694
+Author: eduardo14 <eduardo0091400914@gmail.com>
+Date:   Tue Jul 4 09:48:56 2017 -0600
+
+    se agrego fotter
+
+commit 71944febefc440be7491035efbe85be00e74caae
+Author: eduardo14 <eduardo0091400914@gmail.com>
+Date:   Tue Jul 4 09:45:42 2017 -0600
+
+    img y descripcion
+
+commit db6e18d0777757d65cf766bc63da9c149765f93d
+Author: eduardo14 <eduardo0091400914@gmail.com>
+Date:   Tue Jul 4 09:37:31 2017 -0600
+
+    Prueba primer commit
